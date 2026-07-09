@@ -53,11 +53,11 @@ This project is an interactive Power BI dashboard developed to analyze e-commerc
 - Dashboard Design
 
 ## 📷 Dashboard Preview
-https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Executive_Overview.PNG
-https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Reginal_Analysis.PNG
-https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Market_Analysis.PNG
-https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Category_Analysis.PNG
-https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Product_&_CustomerInsights.PNG
+(https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Executive_Overview.PNG)
+(https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Reginal_Analysis.PNG)
+(https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Market_Analysis.PNG)
+(https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Category_Analysis.PNG)
+(https://github.com/MinalG01/E-Commerce-Sales-Dashboard/blob/main/Product_&_CustomerInsights.PNG)
 
 ## 👩‍💻 Author
 **Minal Gade**
