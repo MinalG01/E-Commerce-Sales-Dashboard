@@ -37,8 +37,8 @@ This project is an interactive Power BI dashboard developed to analyze e-commerc
 - Regional performance varied, highlighting opportunities for business growth.
 
 ## 📁 Repository Contents
-- E-Commerce Dashboard.pbix
-- Ecommerce_Data.csv
+- E-Commercee.pbix
+- Cleaned_Dataset.csv
 - Dashboard Screenshots
 - README.md
 
